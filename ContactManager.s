@@ -2721,7 +2721,7 @@ g_editIndex:
 .LC1:
 	.long	8
 	.long	1
-	.ident	"GCC: (GNU) 13.2.0"
+	
 	.def	__mingw_vsnprintf;	.scl	2;	.type	32;	.endef
 	.def	strstr;	.scl	2;	.type	32;	.endef
 	.def	strncpy;	.scl	2;	.type	32;	.endef
