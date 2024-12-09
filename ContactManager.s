@@ -1,4 +1,4 @@
-	.file	"ContactManager.c"
+	
 	.text
 	.p2align 4
 	.globl	CompareContactsByName
